@@ -2,16 +2,24 @@
 
 A full-stack recipe costing web application built as a learning and portfolio project.
 
-## Planned Stack
+## Tech Stack
 
 - React
 - TypeScript
+- Vite
 - ASP.NET Core
 - PostgreSQL
-- Entity Framework Core
+- Entity Framework Core planned
 
 ## Project Structure
 
-- `backend` - ASP.NET Core Web API
-- `frontend` - React + TypeScript application
+- `backend/RecipeCosting.Api` - ASP.NET Core Web API
+- `frontend` - React + TypeScript frontend
 - `docs` - project documentation
+
+## Current Status
+
+- Backend project created and building successfully
+- Frontend project created and building successfully
+- ESLint enabled
+- Git repository initialized
